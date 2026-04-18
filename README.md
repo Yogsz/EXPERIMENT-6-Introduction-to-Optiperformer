@@ -78,6 +78,8 @@ The system includes:
 |      |                   |                        |                      |              |         |             |                                     |
 |      |                   |                        |                      |              |         |             |                                     |
 
+<img width="1350" height="826" alt="WhatsApp Image 2026-04-18 at 14 14 32" src="https://github.com/user-attachments/assets/c6a0560a-b9b2-45ec-ab9a-b00071cee289" />
+
 ---
 
 ## Graphs
