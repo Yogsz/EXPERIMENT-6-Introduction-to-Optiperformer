@@ -78,16 +78,27 @@ The system includes:
 |      |                   |                        |                      |              |         |             |                                     |
 |      |                   |                        |                      |              |         |             |                                     |
 
-<img width="1350" height="826" alt="WhatsApp Image 2026-04-18 at 14 14 32" src="https://github.com/user-attachments/assets/b3d58146-44b6-4e8e-b223-983ea2da8a3a" />
+<img width="1326" height="924" alt="WhatsApp Image 2026-04-18 at 14 14 32" src="https://github.com/user-attachments/assets/e80fbba6-ead1-484d-90bc-f5f1d76bd45b" />
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="1015" height="912" alt="image" src="https://github.com/user-attachments/assets/60514140-7f0a-48e3-b985-aa25cc94c0d8" />
+<br/>
+<img width="999" height="949" alt="image" src="https://github.com/user-attachments/assets/db1db8ac-ae7d-4825-b830-5a107cfaca7f" />
+<br/>
+<img width="1065" height="947" alt="image" src="https://github.com/user-attachments/assets/d5a68616-5a67-47f3-bcea-eaab3e000c37" />
+<br/>
+<img width="1010" height="928" alt="image" src="https://github.com/user-attachments/assets/d6ed1c4e-1658-4294-b10c-e14726d5ffcc" />
+<br/>
+<img width="1004" height="937" alt="image" src="https://github.com/user-attachments/assets/f25ac754-fd7a-4b6f-beba-452396caa658" />
+
+
 
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+The optical communication system was successfully simulated using OptiPerformer, and the signal transmission through fiber was analyzed.
+The received power and BER confirmed reliable communication with acceptable signal quality.
